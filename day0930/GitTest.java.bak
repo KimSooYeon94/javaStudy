@@ -5,5 +5,3 @@ class GitTest
 		System.out.println("Hello World!");
 	}
 }
-
-// 한글 테스트 !
