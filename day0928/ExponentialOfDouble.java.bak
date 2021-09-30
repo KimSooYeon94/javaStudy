@@ -1,0 +1,10 @@
+class ExponentialOfDouble 
+{
+	public static void main(String[] args) 
+	{
+		double data = 1.0E6;  // 1.0 곱하기 10의 6승을 의미
+		double data = 1.0E-6;  // 1.0 곱하기 10의 -6승을 의미
+		
+		System.out.println("Hello World!");
+	}
+}
